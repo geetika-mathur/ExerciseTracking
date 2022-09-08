@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 
 nutri_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
-sheety_endpoint = "https://api.sheety.co/9128c05a135d07fc5e6e7593e1797191/workouts/sheet1"
+sheety_endpoint = "your endpoint"
 
 APP_ID = os.environ.get()
 
